@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alemtia-zglass.netlify.app/sitemap.xml

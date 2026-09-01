@@ -751,3 +751,27 @@ align-items: flex-start;
 gap: 8px;
 }
 }
+
+/* تحسين ترتيب العناوين */
+.heading h2,
+.intro h2,
+.showText h2,
+.locationText h2,
+.contact h2 {
+  letter-spacing: -.3px;
+  text-wrap: balance;
+}
+
+.heading {
+  text-align: center;
+}
+
+.heading h2 {
+  line-height: 1.45;
+}
+
+.navlinks {
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}

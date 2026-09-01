@@ -1,0 +1,13 @@
+SEO DOMAIN PLACEHOLDER
+======================
+Replace:
+https://alemtia-zglass.netlify.app
+
+with your real domain in:
+- robots.txt
+- sitemap.xml
+- canonical tags
+- Open Graph / structured URLs if present
+
+Do not include a trailing slash when replacing YOUR-DOMAIN.com.
+Example: https://example.com
